@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="HelloWorld" language="en" table="x_snc_helloworld_helloworld">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>HelloWorld</label>
+            <language>en</language>
+            <name>x_snc_helloworld_helloworld</name>
+            <plural>HelloWorlds</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-09 20:46:11</sys_created_on>
+            <sys_id>7b3e5f79d01533007f4439742aa17e4b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>HelloWorld</sys_name>
+            <sys_package display_value="HelloWorld" source="x_snc_helloworld">ab3e1779d01533007f4439742aa17e83</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HelloWorld">ab3e1779d01533007f4439742aa17e83</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_helloworld_helloworld__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-09 20:46:11</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
